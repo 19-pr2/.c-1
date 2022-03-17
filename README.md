@@ -20,9 +20,9 @@
 2. Depoda nokta ile başlayan dosya ve dizinlerde (ör. `.github`) **düzenleme yapmayın**.  Bu dosyalara yapılan
    müdahaleler izlenmekte olup kurala uymayanların ödevleri geçersiz sayılacaktır.
 
-3. Başlamadan önce lütfen [açıklamaları](https://classroom.alaturka.dev/guide/#odevler) okuyun.  Yanıtı bu dokümanlarda
-   kolayca bulunan sorulara dönüş yapılmayacaktır.
-
-4. Ödevle ilgili sorularınızı özelden yazmayın.  Olası bir cevabı öncelikle [ödev
+3. Ödevle ilgili sorularınızı özelden yazmayın.  Olası bir cevabı öncelikle [ödev
    forumunda](https://github.com/19/classroom/discussions/categories/%C3%B6dev) arayın ve gerekiyorsa yeni bir soru
    oluşturun.
+
+4. Ödev forumunda ilgili ödeve verdiğiniz cevabı açık şekilde başkalarının görmesini sağlayan bir yazışma
+   yapılmamalıdır.
