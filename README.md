@@ -14,8 +14,8 @@
 
 ---
 
-1. Dizinde bulacağınız [`assignment.c`](assignment.c) isimli şablon kodu düzenleyin.  **Dosyanın adını değiştirmeyin
-   veya (aksi belirtilmedikçe) başka bir dosya açarak düzenleme yapmayın.**
+1. Dizinde bulacağınız [`main.c`](main.c) isimli şablon kodda `WRITE CODE HERE` yazan bölgeyi düzenleyin.  **Dosyanın
+   adını değiştirmeyin veya (aksi belirtilmedikçe) başka bir dosya açarak düzenleme yapmayın.**
 
 2. Depoda nokta ile başlayan dosya ve dizinlerde (ör. `.github`) **düzenleme yapmayın**.  Bu dosyalara yapılan
    müdahaleler izlenmekte olup kurala uymayanların ödevleri geçersiz sayılacaktır.
